@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background: rgb(178, 224, 149);
+}
+
+a {
+  margin: 10px;
+}
+.croissant-photo {
+  width: 650px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
